@@ -4,3 +4,4 @@
 2. Member
    - Nguyễn Văn Đại (Leader)
    - Nguyễn Hải Linh
+   - Bùi Ngọc Sơn
